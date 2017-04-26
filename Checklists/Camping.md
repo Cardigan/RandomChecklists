@@ -65,6 +65,14 @@ You won’t need everything here, but it’s better to consider it and not need 
 - [ ] bring dry clean clothes for N days use + return trip
 - [ ] sharpen knives and axes
 
+### Post Event 1 week:
+- [ ] Does anyone have flu like symptoms?  Go to Hospital immediately.
+  - It could be:
+      - RMSF, Rocky Mountain Spotted Fever
+      - West Nile Virus
+      - Meningitis
+
+
 
 ### Documentation equipment:
 - [ ] Contour camera / mounts

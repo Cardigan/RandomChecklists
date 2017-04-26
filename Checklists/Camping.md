@@ -59,7 +59,7 @@ You won’t need everything here, but it’s better to consider it and not need 
     - [ ] check tire pressure
     - [ ] check tire tread
     - [ ] napkins
-    - [ ] fix- [ ] a- [ ] flat
+    - [ ] fix-a-flat
     - [ ] jumper cables
     - [ ] lights, brake, turn signal check
 - [ ] bring dry clean clothes for N days use + return trip

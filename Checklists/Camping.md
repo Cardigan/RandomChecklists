@@ -80,9 +80,8 @@ You won’t need everything here, but it’s better to consider it and not need 
 - [ ] lens
 - [ ] spare batteries / charging
 - [ ] chargers camera, phone, car chargers
-- [ ] phone case - [ ]  waterproof
+- [ ] phone case waterproof
 - [ ] waterproof containers / bags
-- [ ] shoulderpod
 - [ ] tripod
 
 
@@ -114,7 +113,7 @@ You won’t need everything here, but it’s better to consider it and not need 
 - [ ] No heavy foods
     - [ ] no beans or gassy foods
     - [ ] no super spicy foods
-- [ ] cooler w/ ice
+- [ ] cooler with ice
 - [ ] bottle opener, corkscrew, can opener
 - [ ] alcohol
 - [ ] shot glasses
@@ -126,7 +125,7 @@ You won’t need everything here, but it’s better to consider it and not need 
 - [ ] coffee mug
 - [ ] cooking oil
 - [ ] Spices marinates, salt, pepper hot sauce
-- [ ] pre- [ ] marinated meat
+- [ ] marinated meat
 - [ ] paper towel
 - [ ] wet wipes
 - [ ] spatula, tongs, heat resistant mittens
@@ -180,7 +179,7 @@ Cleaning supplies
 - [ ] health insurance card
 - [ ] Debit Card
 - [ ] emergency contact numbers
-- [ ] cash $60+
+- [ ] cash
 
 ### Morning Gear:
 - [ ] towel
@@ -290,10 +289,9 @@ Cleaning supplies
 - [ ] towel
 - [ ] sun glasses strap
 - [ ] goggles
+- [ ] floatation device
 
-
-
-### Sleeping room area:
+### Cabin sleeping room area:
 - [ ] air mattress
 - [ ] sheets
 - [ ] blanket

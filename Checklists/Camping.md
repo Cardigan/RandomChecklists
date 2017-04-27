@@ -1,5 +1,4 @@
 ## Camping Checklist:
-
 You won’t need everything here, but it’s better to consider it and not need it than to never have thought about it at all.
 
 ### Planning and communication:
@@ -170,7 +169,7 @@ Cleaning supplies
 - [ ] emergency contact numbers
 - [ ] cash
 
-### Morning Gear:
+### Bathroom supplies:
 - [ ] towel
 - [ ] sandals
 - [ ] Hair Gel
@@ -286,7 +285,7 @@ Cleaning supplies
 - [ ] charging cables
 - [ ] aux cables
 - [ ] HDMI cable
-- [ ] iphone to HDMI adapter
+- [ ] iPhone to HDMI adapter
 
 ### Games:
 - [ ] cards games

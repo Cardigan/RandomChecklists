@@ -1,30 +1,16 @@
 Note: Not everything here is meant to be brought, but the idea is it is better to consider an item and not bring it than to never have considered it at all. This checklist is best read before you start and after you’re done as a confirmation you didn’t overlook anything.
 
 Planning and communication:
-- meal identify individual responsibility vs group activity
 
+### meal identify individual responsibility:
+ (Individual / group activity / eating out)
 
+| Day | Breakfast | Lunch | Snack | Dinner |
+|--------|--------|--------|--------|--------|
+|Friday|||||
+|Saturday|||||
+|Sunday||||||
 
-Breakfast
-Lunch
-Snack
-Dinner
-Friday
-
-
-
-
-
-Saturday
-
-
-
-
-
-
-
-
-Sunday
 
 
 

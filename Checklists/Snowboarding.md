@@ -1,3 +1,5 @@
+# Snowboarding trip checklist
+
 Note: Not everything here is meant to be brought, but the idea is it is better to consider an item and not bring it than to never have considered it at all. This checklist is best read before you start and after you’re done as a confirmation you didn’t overlook anything.
 
 

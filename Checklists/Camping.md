@@ -2,7 +2,6 @@
 
 You won’t need everything here, but it’s better to consider it and not need it than to never have thought about it at all.
 
-
 ### Planning and communication:
 - [ ] Radio walkie talkie w/ headset
 - [ ] identify meal plan for each day, and individual responsibility
@@ -15,7 +14,6 @@ You won’t need everything here, but it’s better to consider it and not need 
 - [ ] Google doc for shared inventory / planning
 - [ ] doodle for ride sharing and trip planning
 - [ ] Message broadcast medium for all hands alert
-
 
 ### Pre game Meeting Announce:
 - [ ] identify radio frequencies and do radio test
@@ -72,8 +70,6 @@ You won’t need everything here, but it’s better to consider it and not need 
       - West Nile Virus
       - Meningitis
 
-
-
 ### Documentation equipment:
 - [ ] Contour camera / mounts
 - [ ] camera
@@ -83,8 +79,6 @@ You won’t need everything here, but it’s better to consider it and not need 
 - [ ] phone case waterproof
 - [ ] waterproof containers / bags
 - [ ] tripod
-
-
 
 ### Campsite personal:
 - [ ] Sleeping mat
@@ -99,15 +93,12 @@ You won’t need everything here, but it’s better to consider it and not need 
 - [ ] headlamps
 - [ ] mosquito netting
 
-
-
 ### Campsite group:
 - [ ] Tarps for shade and rain
 - [ ] Tarps for ground
 - [ ] poles, cord, stakes
 - [ ] lantern flood light
 - [ ] 550 cord bright
-
 
 ### Food and eating utensils:
 - [ ] No heavy foods
@@ -154,7 +145,6 @@ Cleaning supplies
 - [ ] dish sponge
 - [ ] green pad
 
-
 ### Clothing:
 - [ ] warm layers
 - [ ] hand warmers
@@ -172,7 +162,6 @@ Cleaning supplies
 - [ ] sunblock
 - [ ] detergent
 - [ ] bag
-
 
 ### Wallet:
 - [ ] ID
@@ -217,8 +206,6 @@ Cleaning supplies
 - [ ] shovel
 - [ ] portable seat
 
-
-
 ### Hiking use:
 - [ ] sandals
 - [ ] snacks
@@ -241,15 +228,12 @@ Cleaning supplies
 - [ ] avalanche locator
 - [ ] jacket
 
-
 ### Rain gear:
 - [ ] rain jacket
 - [ ] hat
 - [ ] poncho
 - [ ] pants
 - [ ] rain shoe cover / booties
-
-
 
 ### Emergency gear:
 - [ ] matches
@@ -260,7 +244,6 @@ Cleaning supplies
 - [ ] map
 - [ ] edible / poison plant book
 
-
 ### Animal defense:
 - [ ] bear spray
 - [ ] rifle / ammo (if legal to carry)
@@ -268,7 +251,6 @@ Cleaning supplies
 - [ ] bells
 - [ ] whistle
 - [ ] horn
-
 
 ### Fire kit:
 - [ ] matches lighter
@@ -281,7 +263,6 @@ Cleaning supplies
 - [ ] lighter fluid
 - [ ] wood
 - [ ] headlamp
-
 
 ### Swimming gear:
 - [ ] water shoes / sandals
@@ -310,7 +291,6 @@ Cleaning supplies
 ### Games:
 - [ ] cards games
 - [ ] board games
-
 
 ### Books:
 - [ ] Download audio books

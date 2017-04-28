@@ -2,17 +2,6 @@
 
 Note: Not everything here is meant to be brought, but the idea is it is better to consider an item and not bring it than to never have considered it at all. This checklist is best read before you start and after you’re done as a confirmation you didn’t overlook anything.
 
-
-### Meal identify individual responsibility:
- (Individual / group activity / eating out)
-
-| Day | Breakfast | Lunch | Snack | Dinner |
-|--------|--------|--------|--------|--------|
-|Friday|||||
-|Saturday|||||
-|Sunday||||||
-
-
 ### Planning and communication:
 - [ ] make reservations, and get total cost
 - [ ] report cost to participants  
@@ -29,6 +18,16 @@ Note: Not everything here is meant to be brought, but the idea is it is better t
         - [ ] be aggressive / scare away
     - [ ] Coyote
         - [ ] stand tall arms out look large
+
+### Meal identify individual responsibility:
+(Individual / group activity / eating out)
+
+| Day    | Breakfast | Lunch | Snack | Dinner | alcohol |
+|--------|-----------|-------|-------|--------|---------|
+|Day 1   |           |       |       |        |         |
+|Day 2   |           |       |       |        |         |
+|Day 3   |           |       |       |        |         |
+|etc.    |           |       |       |        |         ||
 
 ### Snowboarding gear:
 - [ ] Snowboard / ski

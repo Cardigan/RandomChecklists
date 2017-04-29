@@ -4,20 +4,8 @@ Note: Not everything here is meant to be brought, but the idea is it is better t
 
 ### Planning and communication:
 - [ ] make reservations, and get total cost
-- [ ] report cost to participants  
-- [ ] get emergency number for local authorities
-    Big Bear police department: (909) 866-0100
-- [ ] research dangerous animals risk and effective action plans
-    - [ ] Black Bear
-        - [ ] keep food stored in safe location (not the car)
-        - [ ] don’t run, walk away slowly
-        - [ ] Scare it away
-    - [ ] Bobcat
-        - [ ] protect children and small pets
-        - [ ] never turn your back
-        - [ ] be aggressive / scare away
-    - [ ] Coyote
-        - [ ] stand tall arms out look large
+- [ ] report cost to participants
+- [ ] check for early bird deals
 
 ### Meal identify individual responsibility:
 (Individual / group activity / eating out)
@@ -33,11 +21,13 @@ Note: Not everything here is meant to be brought, but the idea is it is better t
 - [ ] Snowboard / ski
 - [ ] waterproof pants
 - [ ] waterproof gloves
+- [ ] neck protection
+- [ ] face protection from wind
 - [ ] layered clothes
 - [ ] lift tickets
 - [ ] Tools
 - [ ] wax
-- [ ] helment
+- [ ] helmet
 - [ ] hat
 - [ ] sunscreen
 - [ ] lip balm
@@ -49,6 +39,7 @@ Note: Not everything here is meant to be brought, but the idea is it is better t
 
 ### Pre game Meeting Announce:
 - [ ] Radio walkie talkie
+  - check if it will work at low temperatures
 - [ ] identify radio frequencies and do radio test
 - [ ] Announce plan for breakfast lunch and diner,
 - [ ] Announce the total projected cost per person, includes:
@@ -61,7 +52,11 @@ Note: Not everything here is meant to be brought, but the idea is it is better t
 - [ ] Non cotton clothes
 - [ ] Do Weather check 7 days out
 - [ ] map route
-- [ ] notify relatives route and expected call back date / time, number of local authorities
+- [ ] notify relatives:
+  - route
+  - expected call back date / time
+  - number of local authorities
+  - number of other party members
 - [ ] charged GPS
 - [ ] download offline GPS maps
 - [ ] charge phone
@@ -72,11 +67,25 @@ Note: Not everything here is meant to be brought, but the idea is it is better t
     - [ ] check gas
     - [ ] check tire pressure
     - [ ] napkins
-    - [ ] fix- a- flat
+    - [ ] fix-a-flat
     - [ ] jumper cables
     - [ ] lights, brake, turn signal check
     - [ ] tire chains
 - [ ] bring dry clean clothes for N days use plus for return trip
+- [ ] save emergency number for:
+  - local authorities
+  - lodge / resort
+- [ ] research dangerous animals risk and effective action plans
+    - [ ] Black Bear
+        - [ ] keep food stored in safe location (not the car)
+        - [ ] don’t run, walk away slowly
+        - [ ] Scare it away
+    - [ ] Bobcat
+        - [ ] protect children and small pets
+        - [ ] never turn your back
+        - [ ] be aggressive / scare away
+    - [ ] Coyote
+        - [ ] stand tall arms out look large
 
 ### Documentation equipment:
 - [ ] body camera
@@ -123,7 +132,7 @@ Note: Not everything here is meant to be brought, but the idea is it is better t
 - [ ] dish soap and dish sponge
 - [ ] High vitamin C foods a glass of kiwi or OJ
 - [ ] High vitamin E foods, Sunflower seeds / Almonds
-- [ ] Pepto- Bismol
+- [ ] Pepto-Bismol
 - [ ] fiber supplement
 
 

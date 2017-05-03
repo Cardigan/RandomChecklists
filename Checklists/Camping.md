@@ -15,12 +15,14 @@ You won’t need everything here, but it’s better to consider it and not need 
 - [ ] Message broadcast medium for all hands alert
 
 ### Meal Planning:
+
 | Day | Breakfast | Lunch | Snack | Dinner | alcohol |
-|--------|--------|--------|--------|--------||
-|Day 1||||||
-|Day 2||||||
-|Day 3||||||
-|etc.|||||||
+|-----|-----------|--------|--------|------|---------|
+|Day 1|           |        |        |      |         |
+|Day 2|           |        |        |      |         |
+|Day 3|           |        |        |      |         |
+|etc. |           |        |        |      |         |
+
 
 ### Pre game Meeting Announce:
 - [ ] identify radio frequencies and do radio test

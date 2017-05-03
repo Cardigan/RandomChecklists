@@ -15,7 +15,7 @@ Note: Not everything here is meant to be brought, but the idea is it is better t
 |Day 1   |           |       |       |        |         |
 |Day 2   |           |       |       |        |         |
 |Day 3   |           |       |       |        |         |
-|etc.    |           |       |       |        |         ||
+|etc.    |           |       |       |        |         |
 
 ### Snowboarding gear:
 - [ ] Snowboard / ski

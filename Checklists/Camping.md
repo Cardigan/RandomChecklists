@@ -13,6 +13,7 @@ You won’t need everything here, but it’s better to consider it and not need 
 - [ ] Google doc for shared inventory / planning
 - [ ] doodle for ride sharing and trip planning
 - [ ] Message broadcast medium for all hands alert
+- [ ] add visitor center location to route
 
 ### Meal Planning:
 

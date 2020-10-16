@@ -2,7 +2,6 @@
 You won’t need everything here, but it’s better to consider it and not need it than to never have thought about it at all.
 
 ### Planning and communication:
-- [ ] Radio walkie talkie w/ headset
 - [ ] identify meal plan for each day, and individual responsibility
 - [ ] identify campsites, make reservations, and get total cost
 - [ ] get emergency number for authorities
@@ -10,13 +9,14 @@ You won’t need everything here, but it’s better to consider it and not need 
 - [ ] research legality of carrying guns / ammo
 - [ ] spot emergency transceiver
     - [ ] family briefed on the use of it
-- [ ] Google doc for shared inventory / planning
-- [ ] doodle for ride sharing and trip planning
-- [ ] Message broadcast medium for all hands alert
+- [ ] create a shared doc for inventory / planning
+- [ ] figure out ride sharing and trip planning
 - [ ] add visitor center location to route
     - [ ] call ahead to ensure they're open
 - [ ] review map and or satilte images of the site
-- [ ] idenify location to buy local wood (to avoid bring foriegn wood)
+- [ ] idenify location to buy local fire wood (you must avoid bring foriegn fire wood)
+- [ ] Consider Radio walkie talkie w/ headset
+- [ ] breif everyone about alergies
 
 
 ### Meal Planning:
@@ -27,6 +27,10 @@ You won’t need everything here, but it’s better to consider it and not need 
 |Day 2|           |        |        |      |         |
 |Day 3|           |        |        |      |         |
 |etc. |           |        |        |      |         |
+
+- [ ] snacks for hiking
+- [ ] snacks for drinking
+- [ ] snacks for games
 
 
 ### Pre game Meeting Announce:
@@ -41,13 +45,14 @@ You won’t need everything here, but it’s better to consider it and not need 
     - [ ] Fishing license
     - [ ] other supply cost
 - [ ] Announce the total projected cost per person
-- [ ] Non cotton clothes
+- [ ] bring Non cotton clothes
 - [ ] Do Weather check
 - [ ] map route
 - [ ] notify relatives route and expected call back date / time, number of local authorities
 - [ ] charged GPS
 - [ ] charge watch
-- [ ] download GPS maps
+- [ ] download GPS maps of the site and route
+- [ ] download trail maps
 - [ ] Identify toilet locations
 - [ ] water plan
     - [ ] identify locations to refill
@@ -76,6 +81,7 @@ You won’t need everything here, but it’s better to consider it and not need 
     - [ ] lights, brake, turn signal check
 - [ ] bring dry clean clothes for N days use + return trip
 - [ ] sharpen knives and axes
+- [ ] before trip avoid foods that could upset your stomach or cause gas
 
 ### Post Event 1 week:
 - [ ] Does anyone have flu like symptoms?  Go to Hospital immediately.
@@ -88,6 +94,7 @@ You won’t need everything here, but it’s better to consider it and not need 
 - [ ] Contour camera / mounts
 - [ ] camera
 - [ ] lens
+- [ ] ND filter
 - [ ] spare batteries / charging
 - [ ] chargers camera, phone, car chargers
 - [ ] phone case waterproof
@@ -140,11 +147,8 @@ You won’t need everything here, but it’s better to consider it and not need 
 - [ ] Trash bags
 - [ ] aluminum foil
 - [ ] ziplock bags
-- [ ] lunches for all days
-- [ ] plan for breakfast lunch and diner x N days
 - [ ] High vitamin C foods a glass of kiwi or OJ
 - [ ] High vitamin E foods, Sunflower seeds / Almonds
-- [ ] Pepto-Bismol
 - [ ] fiber supplement
 - [ ] skewers
 - [ ] S'mores
@@ -167,7 +171,7 @@ Cleaning supplies
 - [ ] fresh underwear x days
 - [ ] fresh undershirts x days
 - [ ] wool socks (cold)
-- [ ] neoprene socks (very cold)
+- [ ] neoprene socks (for very cold places)
 - [ ] belts
 - [ ] hiking pants
 - [ ] warm clothing liners
@@ -181,7 +185,7 @@ Cleaning supplies
 - [ ] ID
 - [ ] health insurance card
 - [ ] Debit Card
-- [ ] emergency contact numbers
+- [ ] emergency contact numbers on paper
 - [ ] cash
 
 ### Bathroom supplies:
@@ -211,6 +215,9 @@ Cleaning supplies
 - [ ] glasses
 - [ ] prescription / nonprescription sunglasses
 - [ ] glasses case
+- [ ] Pepto-Bismol
+- [ ] daily vitamins 
+- [ ] medications 
 
 ### Toilet items:
 - [ ] Identify toilet locations
@@ -309,5 +316,5 @@ Cleaning supplies
 ### Books:
 - [ ] Download audio books
 - [ ] download podcast
-- [ ] kindle
+- [ ] kindle books
 - [ ] real books

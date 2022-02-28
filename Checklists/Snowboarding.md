@@ -156,6 +156,8 @@ Note: Not everything here is meant to be brought, but the idea is it is better t
 - [ ] Debit Card
 - [ ] emergency contact
 - [ ] cash expected cost + emergency
+- [ ] ski pass
+- [ ] passport
 
 ### Morning Gear:
 - [ ] towel
